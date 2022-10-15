@@ -52,8 +52,7 @@ int main()
                 std::cout << "LA ";
             else if (temp[j] & note::SI)
                 std::cout << "SI ";
-            else
-                std::cout << "-";
+            
         }
         
     }
